@@ -5,7 +5,7 @@ var Main = React.createClass({
   render: function() {
     
     return (
-
+      <div>
       <div id="header">
         <nav>
           <li class="fork"><a href="https://github.com/samuelgarnham">View On GitHub</a></li>
@@ -27,6 +27,7 @@ var Main = React.createClass({
         </div>
       </section>
 
+    </div>
     </div>
     <!--[if !IE]><script>fixScale(document);</script><![endif]--> 
 
