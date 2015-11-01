@@ -10,7 +10,7 @@ var Main = React.createClass({
         <nav>
           <li class="fork"><a href="https://github.com/samuelgarnham">View On GitHub</a></li>
         </nav>
-      </div><!-- end header -->
+      </div>
 
     <div class="wrapper">
 
