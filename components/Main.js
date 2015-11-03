@@ -36,5 +36,5 @@ var Main = React.createClass({
 
 React.render(
     <Main />,
-    document.body
+    document.getElementById('content')
 );
