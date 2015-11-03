@@ -11,11 +11,9 @@ var Main = React.createClass({
             <li class="fork"><a href="https://github.com/samuelgarnham">View On GitHub</a></li>
           </nav>
         </div>
-    <div class="wrapper">
-      Hello
-    </div>
-    <!--[if !IE]><script>fixScale(document);</script><![endif]--> 
-    </div>
+        <div class="wrapper">
+          Hello
+        </div>
       </div>
     )
   }
