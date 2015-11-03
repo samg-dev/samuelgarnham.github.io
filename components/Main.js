@@ -6,14 +6,14 @@ var Main = React.createClass({
     
     return (
       <div>
-        <div>
-          Hello
-        </div>
         <div id="header">
           <nav>
             <li class="fork"><a href="https://github.com/samuelgarnham">View On GitHub</a></li>
           </nav>
         </div>
+	<div>
+	  Hello
+	</div>
       </div>
     )
   }
